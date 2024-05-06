@@ -41,3 +41,15 @@ if (rectangle.intersect(point)) {
 } else {
     System.out.println("Point does not intersect with rectangle.");
 }
+```
+## Examples
+
+The repository includes examples demonstrating various use cases of the collision detection library. You can find these examples in the main.java file.
+
+## Contributing
+
+Contributions to this project are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
